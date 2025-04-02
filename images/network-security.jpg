@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#1a1a1a"/>
+  <g transform="translate(400,300)">
+    <circle r="150" fill="none" stroke="#00ff00" stroke-width="4"/>
+    <path d="M-75,-75 L75,75 M-75,75 L75,-75" stroke="#00ff00" stroke-width="4"/>
+    <circle r="50" fill="#00ff00" opacity="0.5"/>
+    <text x="-120" y="120" fill="#00ff00" font-family="monospace" font-size="24">NETWORK SECURITY</text>
+  </g>
+</svg>
